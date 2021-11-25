@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wallpaper</string>
+
+    <string name="wallpaper_description">Example wallpaper</string>
+
+    <string name="choose_wallpaper">Choose Wallpaper</string>
+</resources>
